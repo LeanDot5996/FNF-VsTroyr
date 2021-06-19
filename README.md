@@ -1,0 +1,3 @@
+Yo idk how to add here...
+
+so um, welcome to the source code of Friday Night Funkin' Vs. Troyr
