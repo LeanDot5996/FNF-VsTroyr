@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfRadio.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Radio Beat0000" x="0" y="0" width="255" height="189" frameX="-1" frameY="-6" frameWidth="257" frameHeight="195"/>
+	<SubTexture name="Radio Beat0001" x="255" y="0" width="255" height="195" frameX="-1" frameY="0" frameWidth="257" frameHeight="195"/>
+	<SubTexture name="Radio Beat0002" x="255" y="0" width="255" height="195" frameX="-1" frameY="0" frameWidth="257" frameHeight="195"/>
+	<SubTexture name="Radio Beat0003" x="0" y="195" width="257" height="192" frameX="0" frameY="-3" frameWidth="257" frameHeight="195"/>
+	<SubTexture name="Radio Beat0004" x="257" y="195" width="255" height="190" frameX="-1" frameY="-5" frameWidth="257" frameHeight="195"/>
+	<SubTexture name="Radio Beat0005" x="0" y="0" width="255" height="189" frameX="-1" frameY="-6" frameWidth="257" frameHeight="195"/>
+	<SubTexture name="Radio Beat0006" x="0" y="0" width="255" height="189" frameX="-1" frameY="-6" frameWidth="257" frameHeight="195"/>
+	<SubTexture name="Radio Beat0007" x="0" y="0" width="255" height="189" frameX="-1" frameY="-6" frameWidth="257" frameHeight="195"/>
+	<SubTexture name="Radio Beat0008" x="0" y="0" width="255" height="189" frameX="-1" frameY="-6" frameWidth="257" frameHeight="195"/>
+	<SubTexture name="Radio Beat0009" x="0" y="0" width="255" height="189" frameX="-1" frameY="-6" frameWidth="257" frameHeight="195"/>
+	<SubTexture name="Radio Beat0010" x="0" y="0" width="255" height="189" frameX="-1" frameY="-6" frameWidth="257" frameHeight="195"/>
+	<SubTexture name="Radio Beat0011" x="0" y="0" width="255" height="189" frameX="-1" frameY="-6" frameWidth="257" frameHeight="195"/>
+	<SubTexture name="Radio Beat0012" x="0" y="0" width="255" height="189" frameX="-1" frameY="-6" frameWidth="257" frameHeight="195"/>
+	<SubTexture name="Radio Beat0013" x="0" y="0" width="255" height="189" frameX="-1" frameY="-6" frameWidth="257" frameHeight="195"/>
+	<SubTexture name="Radio Beat0014" x="0" y="0" width="255" height="189" frameX="-1" frameY="-6" frameWidth="257" frameHeight="195"/>
+	<SubTexture name="Radio Beat0015" x="0" y="0" width="255" height="189" frameX="-1" frameY="-6" frameWidth="257" frameHeight="195"/>
+	<SubTexture name="Radio Beat0016" x="255" y="0" width="255" height="195" frameX="-1" frameY="0" frameWidth="257" frameHeight="195"/>
+	<SubTexture name="Radio Beat0017" x="255" y="0" width="255" height="195" frameX="-1" frameY="0" frameWidth="257" frameHeight="195"/>
+	<SubTexture name="Radio Beat0018" x="0" y="195" width="257" height="192" frameX="0" frameY="-3" frameWidth="257" frameHeight="195"/>
+	<SubTexture name="Radio Beat0019" x="257" y="195" width="255" height="190" frameX="-1" frameY="-5" frameWidth="257" frameHeight="195"/>
+	<SubTexture name="Radio Beat0020" x="0" y="0" width="255" height="189" frameX="-1" frameY="-6" frameWidth="257" frameHeight="195"/>
+	<SubTexture name="Radio Beat0021" x="0" y="0" width="255" height="189" frameX="-1" frameY="-6" frameWidth="257" frameHeight="195"/>
+	<SubTexture name="Radio Beat0022" x="0" y="0" width="255" height="189" frameX="-1" frameY="-6" frameWidth="257" frameHeight="195"/>
+	<SubTexture name="Radio Beat0023" x="0" y="0" width="255" height="189" frameX="-1" frameY="-6" frameWidth="257" frameHeight="195"/>
+	<SubTexture name="Radio Beat0024" x="0" y="0" width="255" height="189" frameX="-1" frameY="-6" frameWidth="257" frameHeight="195"/>
+	<SubTexture name="Radio Beat0025" x="0" y="0" width="255" height="189" frameX="-1" frameY="-6" frameWidth="257" frameHeight="195"/>
+	<SubTexture name="Radio Beat0026" x="0" y="0" width="255" height="189" frameX="-1" frameY="-6" frameWidth="257" frameHeight="195"/>
+	<SubTexture name="Radio Beat0027" x="0" y="0" width="255" height="189" frameX="-1" frameY="-6" frameWidth="257" frameHeight="195"/>
+	<SubTexture name="Radio Beat0028" x="0" y="0" width="255" height="189" frameX="-1" frameY="-6" frameWidth="257" frameHeight="195"/>
+	<SubTexture name="Radio Beat0029" x="0" y="0" width="255" height="189" frameX="-1" frameY="-6" frameWidth="257" frameHeight="195"/>
+</TextureAtlas>

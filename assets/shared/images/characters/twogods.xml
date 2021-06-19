@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="twogods.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="twogodsDOWN0000" x="1286" y="2173" width="634" height="662"/>
+	<SubTexture name="twogodsDOWN0001" x="1318" y="1466" width="634" height="659" frameX="0" frameY="-3" frameWidth="634" frameHeight="662"/>
+	<SubTexture name="twogodsIDLE0000" x="2482" y="2808" width="597" height="684" frameX="0" frameY="0" frameWidth="602" frameHeight="684"/>
+	<SubTexture name="twogodsIDLE0001" x="1919" y="0" width="602" height="680" frameX="0" frameY="-4" frameWidth="602" frameHeight="684"/>
+	<SubTexture name="twogodsIDLE0002" x="1971" y="680" width="601" height="680" frameX="0" frameY="-4" frameWidth="602" frameHeight="684"/>
+	<SubTexture name="twogodsIDLE0003" x="1371" y="756" width="600" height="683" frameX="0" frameY="-1" frameWidth="602" frameHeight="684"/>
+	<SubTexture name="twogodsIDLE0004" x="1883" y="2835" width="599" height="683" frameX="0" frameY="-1" frameWidth="602" frameHeight="684"/>
+	<SubTexture name="twogodsIDLE0005" x="1920" y="2125" width="599" height="683" frameX="0" frameY="-1" frameWidth="602" frameHeight="684"/>
+	<SubTexture name="twogodsIDLE0006" x="1952" y="1439" width="598" height="684" frameX="0" frameY="0" frameWidth="602" frameHeight="684"/>
+	<SubTexture name="twogodsIDLE0007" x="2519" y="2123" width="597" height="684" frameX="0" frameY="0" frameWidth="602" frameHeight="684"/>
+	<SubTexture name="twogodsIDLE0008" x="2550" y="1360" width="597" height="684" frameX="0" frameY="0" frameWidth="602" frameHeight="684"/>
+	<SubTexture name="twogodsIDLE0009" x="2482" y="2808" width="597" height="684" frameX="0" frameY="0" frameWidth="602" frameHeight="684"/>
+	<SubTexture name="twogodsIDLE0010" x="2482" y="2808" width="597" height="684" frameX="0" frameY="0" frameWidth="602" frameHeight="684"/>
+	<SubTexture name="twogodsIDLE0011" x="2482" y="2808" width="597" height="684" frameX="0" frameY="0" frameWidth="602" frameHeight="684"/>
+	<SubTexture name="twogodsIDLE0012" x="2482" y="2808" width="597" height="684" frameX="0" frameY="0" frameWidth="602" frameHeight="684"/>
+	<SubTexture name="twogodsIDLE0013" x="2482" y="2808" width="597" height="684" frameX="0" frameY="0" frameWidth="602" frameHeight="684"/>
+	<SubTexture name="twogodsLEANDOWN0000" x="655" y="782" width="716" height="684" frameX="-3" frameY="0" frameWidth="719" frameHeight="684"/>
+	<SubTexture name="twogodsLEANDOWN0001" x="0" y="1563" width="719" height="683" frameX="0" frameY="-1" frameWidth="719" frameHeight="684"/>
+	<SubTexture name="twogodsLEANLEFT0000" x="3147" y="0" width="559" height="684" frameX="0" frameY="-4" frameWidth="559" frameHeight="688"/>
+	<SubTexture name="twogodsLEANLEFT0001" x="2572" y="0" width="549" height="688" frameX="-2" frameY="0" frameWidth="559" frameHeight="688"/>
+	<SubTexture name="twogodsLEANRIGHT0000" x="1280" y="2929" width="603" height="702" frameX="0" frameY="-1" frameWidth="603" frameHeight="707"/>
+	<SubTexture name="twogodsLEANRIGHT0001" x="719" y="1466" width="599" height="707" frameX="-2" frameY="0" frameWidth="603" frameHeight="707"/>
+	<SubTexture name="twogodsLEANUP0000" x="0" y="782" width="655" height="781" frameX="-12" frameY="-1" frameWidth="669" frameHeight="782"/>
+	<SubTexture name="twogodsLEANUP0001" x="0" y="0" width="669" height="782"/>
+	<SubTexture name="twogodsLEFT0000" x="624" y="2246" width="662" height="683" frameX="-2" frameY="-4" frameWidth="664" frameHeight="687"/>
+	<SubTexture name="twogodsLEFT0001" x="616" y="3002" width="664" height="687"/>
+	<SubTexture name="twogodsRIGHT0000" x="3116" y="2044" width="568" height="690" frameX="0" frameY="0" frameWidth="568" frameHeight="691"/>
+	<SubTexture name="twogodsRIGHT0001" x="3079" y="2807" width="568" height="691"/>
+	<SubTexture name="twogodsUP0000" x="0" y="3002" width="616" height="748" frameX="-2" frameY="-7" frameWidth="625" frameHeight="756"/>
+	<SubTexture name="twogodsUP0001" x="669" y="0" width="625" height="756"/>
+	<SubTexture name="twogodsUP0002" x="0" y="2246" width="624" height="756" frameX="0" frameY="0" frameWidth="625" frameHeight="756"/>
+	<SubTexture name="twogodsUP0003" x="1294" y="0" width="625" height="756"/>
+	<SubTexture name="twogodsUP0004" x="1294" y="0" width="625" height="756"/>
+	<SubTexture name="twogodsUP0005" x="1294" y="0" width="625" height="756"/>
+	<SubTexture name="twogodsUP0006" x="1294" y="0" width="625" height="756"/>
+	<SubTexture name="twogodsUP0007" x="1294" y="0" width="625" height="756"/>
+	<SubTexture name="twogodsUP0008" x="1294" y="0" width="625" height="756"/>
+	<SubTexture name="twogodsUP0009" x="1294" y="0" width="625" height="756"/>
+	<SubTexture name="twogodsUP0010" x="1294" y="0" width="625" height="756"/>
+	<SubTexture name="twogodsUP0011" x="1294" y="0" width="625" height="756"/>
+	<SubTexture name="twogodsUP0012" x="1294" y="0" width="625" height="756"/>
+	<SubTexture name="twogodsUP0013" x="1294" y="0" width="625" height="756"/>
+</TextureAtlas>
