@@ -1,23 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="pillow.png">
-	<!-- Created with Adobe Animate version 19.2.1.408 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="nothing0000" x="0" y="0" width="10" height="10" frameX="0" frameY="0" frameWidth="435" frameHeight="464"/>
-	<SubTexture name="pillowspin0000" x="0" y="0" width="286" height="444" frameX="0" frameY="-15" frameWidth="1459" frameHeight="628"/>
-	<SubTexture name="pillowspin0001" x="0" y="0" width="286" height="444" frameX="0" frameY="-15" frameWidth="1459" frameHeight="628"/>
-	<SubTexture name="pillowspin0002" x="286" y="0" width="507" height="436" frameX="0" frameY="-15" frameWidth="1459" frameHeight="628"/>
-	<SubTexture name="pillowspin0003" x="286" y="0" width="507" height="436" frameX="0" frameY="-15" frameWidth="1459" frameHeight="628"/>
-	<SubTexture name="pillowspin0004" x="793" y="0" width="597" height="418" frameX="0" frameY="-15" frameWidth="1459" frameHeight="628"/>
-	<SubTexture name="pillowspin0005" x="793" y="0" width="597" height="418" frameX="0" frameY="-15" frameWidth="1459" frameHeight="628"/>
-	<SubTexture name="pillowspin0006" x="0" y="444" width="769" height="433" frameX="0" frameY="0" frameWidth="1459" frameHeight="628"/>
-	<SubTexture name="pillowspin0007" x="0" y="444" width="769" height="433" frameX="0" frameY="0" frameWidth="1459" frameHeight="628"/>
-	<SubTexture name="pillowspin0008" x="769" y="444" width="966" height="425" frameX="0" frameY="-8" frameWidth="1459" frameHeight="628"/>
-	<SubTexture name="pillowspin0009" x="769" y="444" width="966" height="425" frameX="0" frameY="-8" frameWidth="1459" frameHeight="628"/>
-	<SubTexture name="pillowspin0010" x="0" y="877" width="1172" height="418" frameX="0" frameY="-15" frameWidth="1459" frameHeight="628"/>
-	<SubTexture name="pillowspin0011" x="0" y="877" width="1172" height="418" frameX="0" frameY="-15" frameWidth="1459" frameHeight="628"/>
-	<SubTexture name="pillowspin0012" x="0" y="1295" width="1291" height="485" frameX="0" frameY="-15" frameWidth="1459" frameHeight="628"/>
-	<SubTexture name="pillowspin0013" x="0" y="1295" width="1291" height="485" frameX="0" frameY="-15" frameWidth="1459" frameHeight="628"/>
-	<SubTexture name="pillowspin0014" x="0" y="1780" width="1459" height="613" frameX="0" frameY="-15" frameWidth="1459" frameHeight="628"/>
-	<SubTexture name="pillowspin0015" x="0" y="1780" width="1459" height="613" frameX="0" frameY="-15" frameWidth="1459" frameHeight="628"/>
-	<SubTexture name="pillowspin0015" x="0" y="1780" width="0" height="0" frameX="0" frameY="-15" frameWidth="1459" frameHeight="628"/>
+	<!-- Created with Adobe Flash Professional version 15.0.0.173 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="nothing0000" x="0" y="0" width="10" height="10" frameX="0" frameY="10" frameWidth="435" frameHeight="464"/>
+	<SubTexture name="pillowspin0000" x="0" y="0" width="1462" height="706" frameX="0" frameY="10" frameWidth="435" frameHeight="464"/>
+	<SubTexture name="pillowspin0001" x="1462" y="0" width="1462" height="706" frameX="0" frameY="10" frameWidth="435" frameHeight="464"/>
+	<SubTexture name="pillowspin0002" x="0" y="706" width="1462" height="706" frameX="0" frameY="10" frameWidth="435" frameHeight="464"/>
+	<SubTexture name="pillowspin0003" x="1462" y="706" width="1462" height="706" frameX="0" frameY="10" frameWidth="435" frameHeight="464"/>
+	<SubTexture name="pillowspin0004" x="0" y="1412" width="1462" height="706" frameX="0" frameY="10" frameWidth="435" frameHeight="464"/>
+	<SubTexture name="pillowspin0005" x="1462" y="1412" width="1462" height="706" frameX="0" frameY="10" frameWidth="435" frameHeight="464"/>
+	<SubTexture name="pillowspin0006" x="0" y="2118" width="1462" height="706" frameX="0" frameY="10" frameWidth="435" frameHeight="464"/>
+	<SubTexture name="pillowspin0007" x="1462" y="2118" width="1462" height="706" frameX="0" frameY="10" frameWidth="435" frameHeight="464"/>
+	<SubTexture name="pillowspin0008" x="1462" y="2118" width="1462" height="706" frameX="0" frameY="10" frameWidth="435" frameHeight="464"/>
+	<SubTexture name="pillowspin0009" x="0" y="2824" width="1462" height="706" frameX="0" frameY="10" frameWidth="435" frameHeight="464"/>
+	<SubTexture name="pillowspin0010" x="0" y="3530" width="1462" height="706" frameX="100" frameY="200" frameWidth="435" frameHeight="464"/>
+	<SubTexture name="pillowspin0011" x="0" y="0" width="10" height="10" frameX="0" frameY="0" frameWidth="435" frameHeight="464"/>
+	<SubTexture name="pillowspin0012" x="0" y="0" width="10" height="10" frameX="0" frameY="0" frameWidth="435" frameHeight="464"/>
+	<SubTexture name="pillowspin0013" x="0" y="0" width="10" height="10" frameX="0" frameY="0" frameWidth="435" frameHeight="464"/>
 </TextureAtlas>
